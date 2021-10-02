@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "341737629348",
+    "firebase_url": "https://pubgwallpaper-84c13.firebaseio.com",
+    "project_id": "pubgwallpaper-84c13",
+    "storage_bucket": "pubgwallpaper-84c13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341737629348:android:b8dab2294b7ad872952831",
+        "android_client_info": {
+          "package_name": "com.neptechpal.pubgwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341737629348-ij0u7fhjffuqjfu8t4eahm0um30n834g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6jTzFwPFCcfE-H7-1pvG_2fFUtRuvuM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341737629348-ij0u7fhjffuqjfu8t4eahm0um30n834g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
