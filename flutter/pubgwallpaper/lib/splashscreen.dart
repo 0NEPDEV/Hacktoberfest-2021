@@ -18,6 +18,7 @@ class _SplashScreenState extends State<SplashScreen> {
         return WallScreen();
       }));
     });
+    // TODO: GET RANDOM IMAGES FROM API
   }
 
   @override
